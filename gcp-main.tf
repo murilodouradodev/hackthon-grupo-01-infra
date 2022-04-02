@@ -1,5 +1,5 @@
 resource "google_app_engine_application" "app" {
-  project     = "labdevopscloud-6aso-gropo14"
+  project     = "hackathon-6aso-grupo-01"
   location_id = "us-central"
 }
 
